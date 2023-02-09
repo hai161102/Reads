@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reads</string>
+    <string name="this_action_can_contain_ads">This action can contain ads...</string>
+    <string name="home">Home</string>
+    <string name="recent">Recent</string>
+    <string name="favourite">Favourite</string>
+    <string name="download">Download</string>
+    <string name="no_files_here">No files here</string>
+</resources>
